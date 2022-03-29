@@ -1,12 +1,12 @@
-# Rhabdastrella_globostellata_and_Dysidea_microbiome
-Rhabdastrella globostellata and Dysidea sponge microbiome
+# Rhabdastrella_globostellata_and_Hyrtios_erectus_microbiome
+Rhabdastrella globostellata and Hyrtios erectus sponge microbiome
 
 ### Installing pipeline :
 
 First, open your terminal. Then, run these two command lines :
 
     cd -place_in_your_local_computer
-    git clone https://github.com/PLStenger/Rhabdastrella_globostellata_microbiome.git
+    git clone https://github.com/PLStenger/Rhabdastrella_globostellata_and_Hyrtios_erectus_microbiome.git
 
 ### Update the pipeline in local by :
 
@@ -30,7 +30,7 @@ For install QIIME2, please refer to http://qiime.org/install/install.html
 
 
     # Put you in your working directory
-    cd /scratch_vol1/fungi/Rhabdastrella_globostellata_microbiome/00_scripts
+    cd /scratch_vol1/fungi/Rhabdastrella_globostellata_and_Hyrtios_erectus_microbiome/00_scripts
     
     
     # For run all pipeline, lunch only this command line : 
